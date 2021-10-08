@@ -7,10 +7,10 @@
 
 ### Comparison
 
-For strict comparison of integers and floats, use ```===```
+* For strict comparison of integers and floats, use ```===```
 
 ### String Interpolation
-```"Hello #={variable_here}"```
+* ```"Hello #={variable_here}"```
 
 ### String Concatenation 
-```"Hello " <> variable_here```
+* ```"Hello " <> variable_here```
