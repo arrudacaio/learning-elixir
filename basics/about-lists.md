@@ -22,3 +22,6 @@ lista ++ ["Testando"]
 
 >> [1, 2, :that, "Testando"]
 ```
+
+Continue tomorrow with Head/Tail
+https://elixirschool.com/en/lessons/basics/collections
